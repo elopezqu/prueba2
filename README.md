@@ -15,7 +15,7 @@
 
 <table>
  <theader>
-  <tr><th colspan="4" style="text-aling:center;"><strong>INFORMACIÓN BÁSICA</strong></th></tr>
+  <tr><th colspan="4" style="text-align:center;"><strong>INFORMACIÓN BÁSICA</strong></th></tr>
  </theader>
  <tbody>
   <tr><td><strong>ASIGNATUA:</strong></td><td colspan="3">Estructura de Datos y Algoritmos   a aaaaaaaaaaaaaa  </td></tr>
