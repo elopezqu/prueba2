@@ -33,6 +33,7 @@
 </tbody>
 </table>
 
+<table>
 <tr><td>RREFERENCIAS Y BIBLIOGRAFÍA</td><tr>
 </theader>
 <tbody>
