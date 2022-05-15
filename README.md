@@ -18,7 +18,7 @@
   <tr><th colspan="4"><strong>INFORMACIÓN BÁSICA</strong></th></tr>
  </theader>
  <tbody>
-  <tr><td><strong>ASIGNATUA:</strong></td><td colspan="3">Estructura de Datos y Algoritmos</td></tr>
+  <tr><td><strong>ASIGNATUA:</strong></td><td colspan="3">Estructura de Datos y Algoritmos   a aaaaaaaaaaaaaa  </td></tr>
   <tr><td><strong>DOCENTE:</strong></td><td colspan="3">Karim Guevara Puente de la Vega</td></tr>
   <tr><td><strong>INTEGRANTE:</strong></td><td>Edson Joel López Quispe</td><td><strong>Usuario:</strong></td><td>elopezqu</td></tr>
  </tbody>
